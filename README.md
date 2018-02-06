@@ -26,10 +26,10 @@ INSTRUCTIONS:
 
 3) (optional)
 A - Copy and paste found scripts in the scripts.txt file
-B - Someow get AutoIt (and hope my years old version is compatible with what you get) and just run the script, it will switch to hackmud (or any window that has hackmud in it..) and then you can just keep pressing F
+B - Somehow get AutoIt (and hope my years old version is compatible with what you get) and just run the script, it will switch to hackmud (or any window that has hackmud in it..) and then you can just keep pressing F
 
 
 
 
 
-Note: I haven't played in a while and doing this by heart so it might be a little different.. but hey thats what the game is all about
+Note: I haven't played in a while and doing this by heart so it might be a little different.. but hey thats what the game is all about. Also, I just noticed the code looks like crap but hey, if that's the way you like it, I won't judge.
