@@ -1,5 +1,7 @@
 function (context, args){
     
+	// https://github.com/SNJ688/hackmud_t1
+	
 	var t = args.t;                // target = #s.loc
 	var l = args.l
 	var pc = args.p

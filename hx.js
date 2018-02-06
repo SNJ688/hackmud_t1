@@ -1,5 +1,8 @@
 function (context, args){
-    var t = args.t;
+    
+	// https://github.com/SNJ688/hackmud_t1
+	
+	var t = args.t;
     var r = t.call({});
 	var z = "";
 	if(typeof r == 'string')

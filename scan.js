@@ -1,5 +1,7 @@
 function (context, args){
-    var t = args.t;
+    
+	// https://github.com/SNJ688/hackmud_t1
+	var t = args.t;
 	
 	
 	var gl = #fs.scripts.get_level({name:t.name});
